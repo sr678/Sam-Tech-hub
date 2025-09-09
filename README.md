@@ -212,7 +212,7 @@
     <h1>Hey, Welcome to my page, I am...</h1>
     <h2 class="brand-name">Sam Adedams</h2>
     <div class="underline"></div>
-    <img src="profile.jpg" alt="Sam's Profile" class="profile-img" />
+    <img src=IMG_20240602_094643_742.jpg alt="Sam's Profile" class="profile-img" />
     <h3 id="animated-title"></h3>
     <a href="mailto:samadedamola4@gmail.com" class="hire-btn">Hire Me</a>
   </header>
